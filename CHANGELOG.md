@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.17.3](https://github.com/aave/aave-v3-core/compare/v1.17.2...v1.17.3) (2023-03-13)
+
+
+### Bug Fixes
+
+* Fix event checks in test cases ([#824](https://github.com/aave/aave-v3-core/issues/824)) ([29ff9b9](https://github.com/aave/aave-v3-core/commit/29ff9b9f89af7cd8255231bc5faf26c3ce0fb7ce))
+
 ## [1.17.2](https://github.com/aave/aave-v3-core/compare/v1.17.1...v1.17.2) (2023-01-31)
 
 
